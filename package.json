@@ -10,6 +10,10 @@
     "watch": "nodemon index.js",
     "dbon": "mkdir -p ./db && mongod --dbpath ./db"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jyotijoey/mern_typescript_gql____BE.git"
+  },
   "author": "jyoti",
   "license": "ISC",
   "description": "",
